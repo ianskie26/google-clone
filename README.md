@@ -1,6 +1,19 @@
-# Getting Started with Create React App
+# Google Clone
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Project
+
+Google clone using [Google's Programmable Search Engine](https://developers.google.com/custom-search/docs/overview)
+
+## Screenshot
+
+![screencapture-localhost-3000-2022-07-17-11_18_15](https://user-images.githubusercontent.com/81738932/179382403-4063c084-1ac7-44d9-b01a-929085c1663b.png)
+
+Results
+![screencapture-cse-google-cse-2022-07-17-11_19_29](https://user-images.githubusercontent.com/81738932/179382406-a6b9927b-cf01-45f6-81d0-9f6111f7f130.png)
+
+
 
 ## Available Scripts
 
